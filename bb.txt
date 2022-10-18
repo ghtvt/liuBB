@@ -1,6 +1,6 @@
 {
 "zhuyejiekou":[
-{"name":"南府追剧〔M〕","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
+{"name":"试试看看〔M〕","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
 {"name":"35影视〔M〕","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"极酷视频〔M〕","url":"https://jiku.vip/mogai_api.php/v1.vod"},
 {"name":"开尔影院〔M〕","url":"https://appx.uy07.com/api.php/v1.vod"},
